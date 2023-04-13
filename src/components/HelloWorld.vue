@@ -2,11 +2,13 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
-      >.
+      Actualmente Banco Unión S.A. cuenta con cuatro filiales (Valores Unión, SAFI Unión, Univida y Unibienes),<br>
+      y se compone de una extensa red de oficinas y cajeros automáticos en todo el país.
+
+El objetivo rector de Banco Unión S.A. se enfoca en crecer y consolidar su posición en los primeros lugares<br>
+del Sistema Financiero Nacional, generando los mejores ratios de rentabilidad al Banco y manteniendo un permanente<br>
+compromiso con el desarrollo del país a través de servicios financieros integrales, eficientes y modernos, ofreciendo<br>
+soluciones ágiles y sobre todo calidad y atención de excelencia.
     </p>
     <h3>Redes sociales</h3>
     <ul>
